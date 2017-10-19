@@ -1,0 +1,9 @@
+c:\users\karthick\documents\visual studio 2015\Projects\textToMorse\bin\Debug\textToMorse.exe.config
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\bin\Debug\textToMorse.exe
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\bin\Debug\textToMorse.pdb
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\obj\Debug\textToMorse.csprojResolveAssemblyReference.cache
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\obj\Debug\textToMorse.Form1.resources
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\obj\Debug\textToMorse.Properties.Resources.resources
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\obj\Debug\textToMorse.csproj.GenerateResource.Cache
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\obj\Debug\textToMorse.exe
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\textToMorse\obj\Debug\textToMorse.pdb
