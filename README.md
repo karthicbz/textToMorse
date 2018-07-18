@@ -1,4 +1,4 @@
-# textToMorse
+# Text to Morse
 A software that converts text to morse code and convert morse code to text.
 
 # It can convert a Text to Morse code
